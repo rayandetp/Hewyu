@@ -1,4 +1,4 @@
-<h1><img src="https://tenor.com/view/baby-yoda-so-cute-the-mandalorian-hello-hi-gif-16772776" width="30"/> Hi there, I'm Hewyu</h1>
+<h1><img src="https://tenor.com/view/penguin-hello-hi-heythere-cutie-gif-3950966" width="30"/> Hi there, I'm Hewyu</h1>
 
 <img align="right" alt="Hewyu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hewyu&show_icons=true&hide_border=true" />
 
