@@ -17,7 +17,7 @@
   <img alt="python" src="https://img.shields.io/badge/-Python-21B500?style=flat-square&logo=python&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/-Java-4495CF?style=flat-square&logo=java&logoColor=white" />
   <img alt="c#" src="https://img.shields.io/badge/-C%20Sharp-44CF90?style=flat-square&logo=c%20sharp&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-44CF90?style=flat-square&logo=Ruby&logoColor=pink" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-FA04AF?style=flat-square&logo=Ruby&logoColor=pink" />
 </p>
 
 ---
