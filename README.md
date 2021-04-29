@@ -47,14 +47,3 @@ const 4po = {
          <a href="https://discord.gg/apo">
          <img src="https://media.discordapp.net/attachments/814554033653678120/818948744493006948/ezgif-3-c779f8f44f6e.gif"> 
          </a>
-      
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @4po on GitHub">Follow @4po</a>
-
-
-<br>
-
----
-
-🔎 From [@4po](https://github.com/4po)
