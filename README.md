@@ -4,7 +4,7 @@
 ─────────────────────────────────────
 </p>
 
-<img align='right' src="https://media0.giphy.com/media/vwF24ptRKfRCgGW7pg/source.gif" width="230">
+<img align='right' src="https://cdn.discordapp.com/attachments/830119828370096138/837277727064719380/Maroc.gif" width="230">
 
 ```javascript
 const 4po = {
