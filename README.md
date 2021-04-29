@@ -7,10 +7,9 @@
 <img align='right' src="https://cdn.discordapp.com/attachments/830119828370096138/837277727064719380/Maroc.gif" width="230">
 
 ```javascript
-const 4po = {
-    pronouns: "He" | "Him",
+const rayandetp = {
+    pronouns: "He",
     askMeAbout: ["web dev", "tech", "game"],
-    technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular"],
             css: ["bootstrap", "sass"]
