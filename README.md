@@ -36,7 +36,7 @@ const rayandetp = {
 ─────────────────────────────────────
 </p>
 
-![4po's github stats](https://github-readme-stats.vercel.app/api?username=hewuy&hide=contribs,prs&count_private=true&show_icons=true)
+![4po's github stats](https://github-readme-stats.vercel.app/api?username=Hewyu&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/4po">
   <img src="https://img.shields.io/github/followers/4po">
