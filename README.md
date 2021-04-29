@@ -41,7 +41,7 @@ const rayandetp = {
 <a href="https://github.com/Hewyu">
   <img src="https://img.shields.io/github/followers/Hewyu">
 </a>
-<a href="https://github.com/4po">
+<a href="https://github.com/Hewyu">
    <img src="https://komarev.com/ghpvc/?username=Hewyu">
 </a>
 
