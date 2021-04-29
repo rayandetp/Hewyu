@@ -36,13 +36,13 @@ const rayandetp = {
 ─────────────────────────────────────
 </p>
 
-![4po's github stats](https://github-readme-stats.vercel.app/api?username=Hewyu&hide=contribs,prs&count_private=true&show_icons=true)
+![Hewyu's github stats](https://github-readme-stats.vercel.app/api?username=Hewyu&hide=contribs,prs&count_private=true&show_icons=true)
 
-<a href="https://github.com/4po">
-  <img src="https://img.shields.io/github/followers/4po">
+<a href="https://github.com/Hewyu">
+  <img src="https://img.shields.io/github/followers/Hewyu">
 </a>
 <a href="https://github.com/4po">
-   <img src="https://komarev.com/ghpvc/?username=4po">
+   <img src="https://komarev.com/ghpvc/?username=Hewyu">
 </a>
 
 <p align="center">
