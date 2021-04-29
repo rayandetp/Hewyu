@@ -48,5 +48,6 @@ const 4po = {
          <img src="https://media.discordapp.net/attachments/814554033653678120/818948744493006948/ezgif-3-c779f8f44f6e.gif"> 
          </a>
     
+<p align="center">
 ─────────────────────────────────────
 </p>
