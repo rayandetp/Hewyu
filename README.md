@@ -1,4 +1,4 @@
-![head.png](https://i.imgur.com/OYEhTHe.gif)
+![head.png](https://www.photofunky.fr/i/864366)
 
 <p align="center">
 ─────────────────────────────────────
