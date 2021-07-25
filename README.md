@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi there, thanks you for visiting</h1>
 <p align="center">
-  <b>Leonhart, 19y Offensive Security/ Web Integrator</b><br>
+  <b>Lorenzo, 16 years CyberCriminal</b><br>
   <a href="https://telegram.me/username">Telegram</a>
   <br></br>
 
@@ -34,7 +34,7 @@ const youba = {
 ─────────────────────────────────────
 </p>
 
-![4po's GitHub stats](https://github-readme-stats.vercel.app/api?username=youba&show_icons=true&theme=midnight-purple)
+![youba's GitHub stats](https://github-readme-stats.vercel.app/api?username=youba&show_icons=true&theme=midnight-purple)
 
 
 
@@ -46,9 +46,5 @@ const youba = {
 <!-- Place this tag where you want the button to render. -->
 
 <a href="https://twitter.com/4poUser"><img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=8136CA&logo=caca&logoColor=black&style=for-the-badge">
-   
-    
-<a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @g4po on GitHub">sur Twitter</a>
-
-
+  
 <br>
