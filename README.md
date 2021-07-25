@@ -1,15 +1,22 @@
-![head.png](https://cdn.discordapp.com/attachments/830119828370096138/837276428449873940/zrhrehreh.gif.7e73946528fb459a8df87accb752aa42.gif)
+<p align="center"><img src="https://i.ibb.co/k0hcZdh/ezgif-com-crop.gif" width="2000"> 
 
 <p align="center">
 ─────────────────────────────────────
 </p>
 
-<img align='right' src="https://cdn.discordapp.com/attachments/830119828370096138/837277727064719380/Maroc.gif" width="230">
+<h1 align="center">Hi there, thanks you for visiting</h1>
+<p align="center">
+  <b>Leonhart, 19y Offensive Security/ Web Integrator</b><br>
+  <a href="https://telegram.me/username">Telegram</a>
+  <br></br>
+
+ <img align='right' src="https://discord.c99.nl/widget/theme-4/614877635368976404.png" width="300">
 
 ```javascript
-const rayandetp = {
-    pronouns: "He",
+const youba = {
+    pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular"],
             css: ["bootstrap", "sass"]
@@ -20,35 +27,28 @@ const rayandetp = {
 };
 ```
 
-## 🌍 → Languages:
-<p>
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="php" src="https://img.shields.io/badge/-PHP-FFB120?style=flat-square&logo=php&logoColor=white" />
-  <img alt="react" src="https://img.shields.io/badge/-React-45B8D8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/-Python-21B500?style=flat-square&logo=python&logoColor=white" />
-  <img alt="java" src="https://img.shields.io/badge/-Java-4495CF?style=flat-square&logo=java&logoColor=white" />
-</p> 
+### My Languages Skills <br/> <br/> ![Python](https://img.shields.io/badge/-Python-8136CA?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-8136CA?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-8136CA?style=flat-square&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-8136CA?style=flat-square&logoColor=white&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-8136CA?style=flat-square&logo=php&logoColor=white) ![REACT](https://img.shields.io/badge/-React-8136CA?style=flat-square&logo=react&logoColor=white) ![C#](https://img.shields.io/badge/-C%20Sharp-8136CA?style=flat-square&logo=c%20sharp&logoColor=white) ![nodejs](https://img.shields.io/badge/-NodeJS-8136CA?style=flat-square&logo=Node.js&logoColor=white) ![Go](https://img.shields.io/badge/-Go-666699?style=flat-square&logo=Go&logoColor=white)
+
 
 <p align="center">
 ─────────────────────────────────────
 </p>
 
-![Hewyu's github stats](https://github-readme-stats.vercel.app/api?username=rayandetp&hide=contribs,prs&count_private=true&show_icons=true)
+![4po's GitHub stats](https://github-readme-stats.vercel.app/api?username=youba&show_icons=true&theme=midnight-purple)
 
-<a href="https://github.com/rayandetp">
-  <img src="https://img.shields.io/github/followers/rayandetp">
+
+
+<a href="https://github.com/youba">
+  <img src="https://img.shields.io/github/followers/youba?color=8136CA&label=FOLLOWERS&style=for-the-badge">
 </a>
-<a href="https://github.com/rayandetp">
-   <img src="https://komarev.com/ghpvc/?username=rayandetp">
-</a>
+      
 
-<p align="center">
-   <img src="https://i.ibb.co/k0hcZdh/ezgif-com-crop.gif">
-</p>
+<!-- Place this tag where you want the button to render. -->
 
-<p align="center">
-─────────────────────────────────────
-</p>
+<a href="https://twitter.com/4poUser"><img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=8136CA&logo=caca&logoColor=black&style=for-the-badge">
+   
+    
+<a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @g4po on GitHub">sur Twitter</a>
+
+
+<br>
