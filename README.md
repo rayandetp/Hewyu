@@ -44,7 +44,5 @@ const youba = {
       
 
 <!-- Place this tag where you want the button to render. -->
-
-<a href="https://twitter.com/4poUser"><img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=8136CA&logo=caca&logoColor=black&style=for-the-badge">
   
 <br>
