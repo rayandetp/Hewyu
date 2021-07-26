@@ -12,7 +12,7 @@
  <img align='right' src="https://discord.c99.nl/widget/theme-4/614877635368976404.png" width="300">
 
 ```javascript
-const youba = {
+const rayan = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
