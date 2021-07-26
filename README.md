@@ -7,7 +7,6 @@
 <h1 align="center">Hi there, thanks you for visiting</h1>
 <p align="center">
   <b>Lorenzo, 16 years CyberCriminal</b><br>
-  <a href="https://telegram.me/username">Telegram</a>
   <br></br>
 
  <img align='right' src="https://discord.c99.nl/widget/theme-4/614877635368976404.png" width="300">
@@ -38,8 +37,8 @@ const youba = {
 
 
 
-<a href="https://github.com/youba">
-  <img src="https://img.shields.io/github/followers/youba?color=8136CA&label=FOLLOWERS&style=for-the-badge">
+<a href="https://github.com/rayandetp">
+  <img src="https://img.shields.io/github/followers/rayandetp?color=8136CA&label=FOLLOWERS&style=for-the-badge">
 </a>
       
 
