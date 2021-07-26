@@ -33,10 +33,6 @@ const lorenzo = {
 ─────────────────────────────────────
 </p>
 
-![youba's GitHub stats](https://github-readme-stats.vercel.app/api?username=youba&show_icons=true&theme=midnight-dark)
-
-
-
 <a href="https://github.com/rayandetp">
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
 </a>
