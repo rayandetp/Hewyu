@@ -38,7 +38,7 @@ const lorenzo = {
 
 
 <a href="https://github.com/rayandetp">
-  <img src="https://img.shields.io/github/followers/rayandetp?color=8136CA&label=FOLLOWERS&style=for-the-badge">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
 </a>
       
 
