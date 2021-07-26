@@ -34,7 +34,7 @@ const lorenzo = {
 </p>
 
 <a href="https://github.com/rayandetp">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayandetp&show_icons=true&theme=radical">
 </a>
       
 
