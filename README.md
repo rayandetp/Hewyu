@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi there, thanks you for visiting</h1>
 <p align="center">
-  <b>Lorenzo, 16 years CyberCriminal</b><br>
+<br>
   <br></br>
 
  <img align='right' src="https://discord.c99.nl/widget/theme-5/642442196804567052.png" width="300">
