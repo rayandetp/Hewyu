@@ -9,10 +9,9 @@
 <br>
   <br></br>
 
- <img align='right' src="https://discord.c99.nl/widget/theme-5/642442196804567052.png" width="300">
 
 ```javascript
-const lorenzo = {
+const  = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
